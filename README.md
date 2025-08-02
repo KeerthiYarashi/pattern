@@ -2,22 +2,9 @@
 This repository contains DSA problems organized by patterns with questions from LeetCode and GeeksforGeeks. It serves as a structured guide for mastering problem-solving techniques, helpful for interview prep and competitive coding. Each pattern includes relevant problems for effective practice.
 # 🧠 Two Pointers + Related Patterns Problem List
 
-This repository includes problems based on **Two Pointers**, including:
-
-# 🧠 Two Pointers + Patterns DSA Problems
-
 This repository contains curated problems based on the **Two Pointers technique**, commonly asked in coding interviews and competitive programming.  
 It covers patterns like:
 
-- Sliding Window  
-- Fast & Slow Pointers  
-- Opposite Direction Pointers  
-- Dutch National Flag Algorithm  
-- In-place Rearrangement
-
-Each problem includes a **clickable link** to the original problem on LeetCode or GeeksforGeeks.
-
----
 
 ## 🔹 LeetCode Two-Pointer Problems
 
